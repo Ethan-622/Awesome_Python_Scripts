@@ -21,7 +21,8 @@ pip3 install python-nmap
 ## Output
 images link : 
 Images/output.png
-![preview]()
+
+![preview](https://github.com/Ethan-622/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Port%20Scanner/Images/output.png)
 
 
 ## Author(s)
